@@ -105,21 +105,7 @@ module.exports = {
 // 7. .env (create in root of server folder)
 MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/agrismart?retryWrites=true&w=majority
 
-// 8. Project Setup Commands
-// - npx create-react-app client
-// - npm init -y (in server)
-// - npm install express mongoose cors dotenv
-// - npm install --save-dev nodemon
-// - Add "dev": "nodemon index.js" to server/package.json scripts
 
-// Folder Structure (server):
-// ├── controllers
-// │   └── userController.js
-// ├── models
-// │   └── User.js
-// ├── routes
-// │   └── userRoutes.js
-// ├── index.js
-// └── .env
 
-// Would you like to continue with crop models and advisory modules next?
+
+
